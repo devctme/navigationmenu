@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Screenshot
+![PowerByDevCT](https://i.ibb.co/j82WnM3/md-minarul-islam.png)
+
 First, run the development server:
 
 ```bash
